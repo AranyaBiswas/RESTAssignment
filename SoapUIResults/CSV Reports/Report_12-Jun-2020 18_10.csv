@@ -1,0 +1,8 @@
+"Test Suite","Test Case","Test Step","Step Type","Step Status","Result message","Execution Date"
+"TestSuite","TC_008_addCustomerAndModifyCustomer","addCustomer","restrequest","UNKNOWN","","12-Jun-2020 18_10",
+"TestSuite","TC_008_addCustomerAndModifyCustomer","Property Transfer","transfer","OK","Message:Performed transfer [addToModify]
+Message:Performed transfer [addToGet]
+","12-Jun-2020 18_10",
+"TestSuite","TC_008_addCustomerAndModifyCustomer","modifyCustomer","restrequest","UNKNOWN","","12-Jun-2020 18_10",
+"TestSuite","TC_008_addCustomerAndModifyCustomer","getCustomerById","restrequest","UNKNOWN","","12-Jun-2020 18_10",
+"TestSuite","TC_008_addCustomerAndModifyCustomer","Properties","properties","OK","","12-Jun-2020 18_10",
